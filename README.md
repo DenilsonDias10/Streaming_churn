@@ -66,7 +66,7 @@ A retenção piorou nas safras mais recentes: comparando o mesmo mês de vida en
 O plano Básico tem a maior taxa de cancelamento, enquanto idade, região e ciclo (mensal/anual) praticamente não separam os grupos.
 Poucos motivos concentram a maioria dos cancelamentos (Pareto), indicando que os esforços devem se concentrar em Preço ou Conteúdos Novos (a verificar com análises de custo, benchmarking com concorrentes, etc)
 
-**Nota importante**: Todas as conclusões são hipóteses embasadas, não relações causais provadas. Confirmar causa exigiria experimentação (ex.: testes A/B).
+**Nota importante**: Todas as conclusões são hipóteses embasadas, não relações causais comprovadas. Confirmar causa exigiria experimentação (ex.: testes A/B).
 
 ## 📜 Estrutura do Projeto
 
