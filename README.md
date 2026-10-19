@@ -8,7 +8,7 @@ Este projeto analisa a base de clientes de um serviço de **streaming por assina
 
 📄 [Veja o template da apresentação](https://github.com/profrenatabiaggi/template/blob/master/reports/figures/Template_Case.pptx)
 
-📄 [Veja o template do notebook](https://github.com/profrenatabiaggi/template/blob/master/notebooks/Case_Fraude.ipynb)
+📄 [Veja o template do notebook]([https://github.com/profrenatabiaggi/template/blob/master/notebooks/Case_Fraude.ipynb](https://github.com/DenilsonDias10/Streaming_churn/blob/master/notebooks/Modulo_3_estatistica.ipynb)
 
 ## 💼 Entendimento do Negócio
 
